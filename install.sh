@@ -14,3 +14,6 @@ git clone https://github.com/nojhan/liquidprompt.git ~/.liquidprompt
 ## Install SSH Config
 git archive --remote=git@bitbucket.org:notacow/ssh_config.git HEAD config | tar -x && mv config ~/.ssh/
 
+## Install Lossratio
+mkdir -p ~/projects/apps
+git clone git@gitlab.redacted.rodeo:apps/lossratio.git ~/projects/apps/lossratio
