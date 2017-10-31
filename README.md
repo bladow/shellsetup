@@ -1,6 +1,6 @@
 dotfiles
 ======================
-Settings and configurations for my Redacted MacOSx
+Settings and configurations for my MacOSX shells
 
 notes
 ======================
