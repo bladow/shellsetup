@@ -1,6 +1,6 @@
 export GOPATH=$HOME/projects/gowork
-export PATH=$PATH:$GOPATH/bin:~/bin:/Users/cowboy/projects/apps/lossratio/bin
-export VAULT_ADDR='https://coffer.redacted.rodeo:8200'
+export PATH=$PATH:$GOPATH/bin:~/bin
+export VAULT_ADDR=''
 
 alias camerafix='sudo killall VDCAssistant'
 
