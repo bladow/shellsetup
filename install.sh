@@ -13,3 +13,7 @@ git clone https://github.com/nojhan/liquidprompt.git ~/.liquidprompt
 
 ## Install SSH Config
 
+## Install Homebrew
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+brew install jq
